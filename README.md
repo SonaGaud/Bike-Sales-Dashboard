@@ -1,4 +1,4 @@
-![Screenshot 2025-06-04 130915](https://github.com/user-attachments/assets/aac3da54-cdde-477a-8ece-f9b5b95e33b3)
+![Screenshot 2025-06-04 152524](https://github.com/user-attachments/assets/6dd5ba78-5e67-4fa3-a3ca-cd1a4f5a084b)
 
 # Bike Sales Dashboard (Excel Project)
 
