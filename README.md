@@ -1,3 +1,5 @@
+![Screenshot 2025-06-04 130915](https://github.com/user-attachments/assets/aac3da54-cdde-477a-8ece-f9b5b95e33b3)
+
 # Bike Sales Dashboard (Excel Project)
 
 ### This project is my hands-on take on a guided Excel dashboard tutorial by Alex The Analyst, where I worked with real-world data to create an interactive Excel dashboard and gained a solid understanding of Excel’s core features.
