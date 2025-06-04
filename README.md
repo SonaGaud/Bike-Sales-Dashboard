@@ -4,8 +4,7 @@
 
 ### The goal was to explore and visualize bike buying trends using basic to intermediate Excel functionalities.
 
-### 📊 Project Overview
-
+### Project Overview
   1. Dataset: Provided bike buyers data (1001 rows x 13 columns) including demographics, income, commute distance, and bike purchase info.
   2. Objective: Clean the data and build an interactive dashboard to derive business insights.
 
@@ -59,7 +58,6 @@
     How simple features like slicers and pivot tables can turn raw data into powerful stories.
     How to segment data for targeted insights (like age groups and region-wise breakdowns).
     How to think like an analyst: asking the “why” behind patterns in charts.
-
 ### Use Case
     Ideal for anyone starting out with Excel or data visualization. 
     This project simulates how businesses can analyze customer data to understand who is buying, where, and why — using nothing more than Excel.
